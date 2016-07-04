@@ -27,7 +27,6 @@ for($i=0; $i < $linkSum; $i++)
   //$outputList[] = array($eq, $link,$canonical);
   $outputText .= "\n$eq, $link,$canonical";
   print "\nchecked link $i of $linkSum";
-  if($i>10) $i=$i+100000;
 }
 
 file_put_contents($outputFile, $outputText);
