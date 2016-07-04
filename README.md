@@ -1,14 +1,14 @@
-/*
- * Made by Rob Tranquillo
- * 04. July 2016
- *
- * This programm comes with no guaranties.
- * The source is free to use under the CC-by-SA (https://creativecommons.org/licenses/by-sa/2.0/) licence.
- *
- * Feel free to contact me for everything.
- *
- * https://github.com/RobTranquillo/SEOCanonicalChecker
- */
+```
+Made by Rob Tranquillo
+04. July 2016
+
+This programm comes with no guaranties.
+The source is free to use under the CC-by-SA (https://creativecommons.org/licenses/by-sa/2.0/) licence.
+
+Feel free to contact me for everything.
+
+https://github.com/RobTranquillo/SEOCanonicalChecker
+```
 
 Small php script to check a list of links if there canonical links are the same.
 
